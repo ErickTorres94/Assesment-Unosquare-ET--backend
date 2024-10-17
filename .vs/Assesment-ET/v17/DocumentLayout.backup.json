@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erick.torres\\source\\repos\\Assesment-ET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7380188D-D2AC-4947-A16B-00EBAEDD7F95}|Assesment.CRUD\\Assesment.CRUD.csproj|c:\\users\\erick.torres\\source\\repos\\assesment-et\\assesment.crud\\models\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7380188D-D2AC-4947-A16B-00EBAEDD7F95}|Assesment.CRUD\\Assesment.CRUD.csproj|solutionrelative:assesment.crud\\models\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7380188D-D2AC-4947-A16B-00EBAEDD7F95}|Assesment.CRUD\\Assesment.CRUD.csproj|c:\\users\\erick.torres\\source\\repos\\assesment-et\\assesment.crud\\repository\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7380188D-D2AC-4947-A16B-00EBAEDD7F95}|Assesment.CRUD\\Assesment.CRUD.csproj|solutionrelative:assesment.crud\\repository\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7380188D-D2AC-4947-A16B-00EBAEDD7F95}|Assesment.CRUD\\Assesment.CRUD.csproj|c:\\users\\erick.torres\\source\\repos\\assesment-et\\assesment.crud\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7380188D-D2AC-4947-A16B-00EBAEDD7F95}|Assesment.CRUD\\Assesment.CRUD.csproj|solutionrelative:assesment.crud\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7380188D-D2AC-4947-A16B-00EBAEDD7F95}|Assesment.CRUD\\Assesment.CRUD.csproj|c:\\users\\erick.torres\\source\\repos\\assesment-et\\assesment.crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7380188D-D2AC-4947-A16B-00EBAEDD7F95}|Assesment.CRUD\\Assesment.CRUD.csproj|solutionrelative:assesment.crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7380188D-D2AC-4947-A16B-00EBAEDD7F95}|Assesment.CRUD\\Assesment.CRUD.csproj|c:\\users\\erick.torres\\source\\repos\\assesment-et\\assesment.crud\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7380188D-D2AC-4947-A16B-00EBAEDD7F95}|Assesment.CRUD\\Assesment.CRUD.csproj|solutionrelative:assesment.crud\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7380188D-D2AC-4947-A16B-00EBAEDD7F95}|Assesment.CRUD\\Assesment.CRUD.csproj|c:\\users\\erick.torres\\source\\repos\\assesment-et\\assesment.crud\\controllers\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7380188D-D2AC-4947-A16B-00EBAEDD7F95}|Assesment.CRUD\\Assesment.CRUD.csproj|solutionrelative:assesment.crud\\controllers\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7380188D-D2AC-4947-A16B-00EBAEDD7F95}|Assesment.CRUD\\Assesment.CRUD.csproj|c:\\users\\erick.torres\\source\\repos\\assesment-et\\assesment.crud\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7380188D-D2AC-4947-A16B-00EBAEDD7F95}|Assesment.CRUD\\Assesment.CRUD.csproj|solutionrelative:assesment.crud\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7380188D-D2AC-4947-A16B-00EBAEDD7F95}|Assesment.CRUD\\Assesment.CRUD.csproj|c:\\users\\erick.torres\\source\\repos\\assesment-et\\assesment.crud\\services\\implementations\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7380188D-D2AC-4947-A16B-00EBAEDD7F95}|Assesment.CRUD\\Assesment.CRUD.csproj|solutionrelative:assesment.crud\\services\\implementations\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7380188D-D2AC-4947-A16B-00EBAEDD7F95}|Assesment.CRUD\\Assesment.CRUD.csproj|c:\\users\\erick.torres\\source\\repos\\assesment-et\\assesment.crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7380188D-D2AC-4947-A16B-00EBAEDD7F95}|Assesment.CRUD\\Assesment.CRUD.csproj|solutionrelative:assesment.crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoTask.cs",
+              "DocumentMoniker": "C:\\Users\\erick.torres\\source\\repos\\Assesment-ET\\Assesment.CRUD\\Models\\ToDoTask.cs",
+              "RelativeDocumentMoniker": "Assesment.CRUD\\Models\\ToDoTask.cs",
+              "ToolTip": "C:\\Users\\erick.torres\\source\\repos\\Assesment-ET\\Assesment.CRUD\\Models\\ToDoTask.cs*",
+              "RelativeToolTip": "Assesment.CRUD\\Models\\ToDoTask.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T21:39:41.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoContext.cs",
+              "DocumentMoniker": "C:\\Users\\erick.torres\\source\\repos\\Assesment-ET\\Assesment.CRUD\\Repository\\ToDoContext.cs",
+              "RelativeDocumentMoniker": "Assesment.CRUD\\Repository\\ToDoContext.cs",
+              "ToolTip": "C:\\Users\\erick.torres\\source\\repos\\Assesment-ET\\Assesment.CRUD\\Repository\\ToDoContext.cs",
+              "RelativeToolTip": "Assesment.CRUD\\Repository\\ToDoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T21:19:43.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\erick.torres\\source\\repos\\Assesment-ET\\Assesment.CRUD\\Services\\ITaskService.cs",
+              "RelativeDocumentMoniker": "Assesment.CRUD\\Services\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\erick.torres\\source\\repos\\Assesment-ET\\Assesment.CRUD\\Services\\ITaskService.cs",
+              "RelativeToolTip": "Assesment.CRUD\\Services\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:05:34.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erick.torres\\source\\repos\\Assesment-ET\\Assesment.CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Assesment.CRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\erick.torres\\source\\repos\\Assesment-ET\\Assesment.CRUD\\Program.cs",
+              "RelativeToolTip": "Assesment.CRUD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:25:00.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\erick.torres\\source\\repos\\Assesment-ET\\Assesment.CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "Assesment.CRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\erick.torres\\source\\repos\\Assesment-ET\\Assesment.CRUD\\appsettings.json",
+              "RelativeToolTip": "Assesment.CRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T15:24:36.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\erick.torres\\source\\repos\\Assesment-ET\\Assesment.CRUD\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Assesment.CRUD\\Models\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\erick.torres\\source\\repos\\Assesment-ET\\Assesment.CRUD\\Models\\LoginDto.cs",
+              "RelativeToolTip": "Assesment.CRUD\\Models\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:44:49.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\erick.torres\\source\\repos\\Assesment-ET\\Assesment.CRUD\\Controllers\\Authentication.cs",
+              "RelativeDocumentMoniker": "Assesment.CRUD\\Controllers\\Authentication.cs",
+              "ToolTip": "C:\\Users\\erick.torres\\source\\repos\\Assesment-ET\\Assesment.CRUD\\Controllers\\Authentication.cs",
+              "RelativeToolTip": "Assesment.CRUD\\Controllers\\Authentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:04:06.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "C:\\Users\\erick.torres\\source\\repos\\Assesment-ET\\Assesment.CRUD\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "Assesment.CRUD\\Controllers\\ToDoController.cs",
+              "ToolTip": "C:\\Users\\erick.torres\\source\\repos\\Assesment-ET\\Assesment.CRUD\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "Assesment.CRUD\\Controllers\\ToDoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:03:05.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\erick.torres\\source\\repos\\Assesment-ET\\Assesment.CRUD\\Services\\Implementations\\TaskService.cs",
+              "RelativeDocumentMoniker": "Assesment.CRUD\\Services\\Implementations\\TaskService.cs",
+              "ToolTip": "C:\\Users\\erick.torres\\source\\repos\\Assesment-ET\\Assesment.CRUD\\Services\\Implementations\\TaskService.cs",
+              "RelativeToolTip": "Assesment.CRUD\\Services\\Implementations\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:50:06.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
